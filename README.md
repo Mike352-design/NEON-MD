@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/N3onAbyss/NEON-MD">
-    <img alt="neon docs" height="300" src="https://github.com/N3onAbyss/NEON-MD">
+    <img alt="neon docs" height="300" src="https://qu.ax/BdMwr.jpg">
   </a>
 </p>
     
