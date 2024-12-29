@@ -1,7 +1,7 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/Kingjux/Venocyber-md /root/Kingjux
-WORKDIR /root/Kingjux
+RUN git clone https://github.com/N3onAbyss/NEON-MD /root/N3onAbyss
+WORKDIR /root/N3onAbyss 
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY VENOCYBER TECH
+# POWERD BY NEON TECH
