@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# VENOCYBER MD
+# NEON MD
 
-You can send anything via VODACOM Mpesa number 0749614269 <b>JASTIN ASHERY MTEWA</b>
+You can send anything via WHATSAPP on 263780858655 <b>NEON ABYSS</b>
