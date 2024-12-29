@@ -30,7 +30,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="NEON-MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{N3onAbyss}/count.svg" alt="NEON-MD :: Visitor's Count" /></p>
 ---
 
 
