@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Venocyber-md!"
+echo "Starting neon-md!"
 node .
 done
