@@ -15,5 +15,5 @@ const start = async () => {
 }
 start();
 /**
-VENOCYBER TECH WHATSAPPP BOT
+NEON TECH WHATSAPPP BOT
 **/
