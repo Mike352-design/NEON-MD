@@ -6,20 +6,20 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "neonabyss00@gmail.com";
+global.email = "alvinmwangi2018@gmail.com";
 global.location = "Harare,Zimbabwe";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Zimbabwe";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github = process.env.GITHUB || "https://github.com/N3onAbyss/NEON-MD";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vb0mA2i3QxS2C1kvFp3p";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vb0mA2i3QxS2C1kvFp3p";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://qu.ax/BdMwr.jpg";
 global.devs = "263713431767";
 global.sudo = process.env.SUDO || "263713431767";
-global.owner = process.env.OWNER_NUMBER || "263713431767";
+global.owner = process.env.OWNER_NUMBER || "254104916091";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
@@ -27,8 +27,8 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
-global.userImages = process.env.USER_IMAGES || "";
-global.waPresence = process.env.WAPRESENCE || "online";
+global.userImages = process.env.USER_IMAGES || "https://c.top4top.io/p_3245bgvg80.jpg";
+global.waPresence = process.env.WAPRESENCE || "typing";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "you're using first powerful bot to be released in Zimbabwe| enjoy your time| this is NEON MD",
+  caption: process.env.CAPTION || "you're using first powerful bot to be released in Kenya| enjoy your time| this is Depahs MD",
   author: process.env.PACK_AUTHER || "NEON",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "NEON-𝐌𝐃",
